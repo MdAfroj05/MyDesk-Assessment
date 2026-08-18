@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import {
   CheckCircle2, Circle, Clock, GitCommit, Server,
   Sparkles, ChevronRight, AlertTriangle,
-  LayoutDashboard, FolderGit2, Kanban, Rocket, TrendingUp,
+  LayoutDashboard, FolderGit2, Kanban, Rocket, TrendingUp, FlaskConical,
   X, CheckCircle, Loader2, Users, Star,
 } from 'lucide-react'
 import { useInView } from '../hooks/useInView'
