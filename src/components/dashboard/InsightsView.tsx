@@ -75,7 +75,6 @@ export function InsightsView() {
         <div className="flex items-end gap-1 h-14">
           {[42, 39, 38, 35, 33, 29, 29].map((val, i) => {
             const ideal = 42 - (42 / 6) * i
-            const isActual = true
             const height = Math.round((val / 42) * 100)
             const idealH  = Math.round((ideal / 42) * 100)
             return (

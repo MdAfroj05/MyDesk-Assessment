@@ -1,4 +1,4 @@
-import { CheckCircle2, Clock, Server, GitCommit, Sparkles, AlertTriangle, TrendingUp } from 'lucide-react'
+import { CheckCircle2, Clock, GitCommit, Sparkles, AlertTriangle } from 'lucide-react'
 import type { useAuth } from '../../context/AuthContext'
 
 type User = ReturnType<typeof useAuth>['user']

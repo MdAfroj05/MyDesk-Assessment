@@ -2,9 +2,9 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import {
   CheckCircle2, Circle, Clock, GitCommit, Server,
-  FlaskConical, Sparkles, ChevronRight, AlertTriangle,
+  Sparkles, ChevronRight, AlertTriangle,
   LayoutDashboard, FolderGit2, Kanban, Rocket, TrendingUp,
-  X, CheckCircle, Loader2, GitBranch, Users, Star,
+  X, CheckCircle, Loader2, Users, Star,
 } from 'lucide-react'
 import { useInView } from '../hooks/useInView'
 

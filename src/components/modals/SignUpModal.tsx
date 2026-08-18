@@ -1,5 +1,5 @@
 import { useState, useId } from 'react'
-import { Eye, EyeOff, Hexagon, AlertCircle, CheckCircle2, ArrowRight } from 'lucide-react'
+import { Eye, EyeOff, Hexagon, AlertCircle, ArrowRight } from 'lucide-react'
 import { ModalBase } from './ModalBase'
 import { useModal } from '../../context/ModalContext'
 

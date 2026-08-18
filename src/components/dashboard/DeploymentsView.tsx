@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Server, GitBranch, Clock, CheckCircle2, XCircle, Loader2, RefreshCw, ChevronDown, ChevronUp, Rocket } from 'lucide-react'
+import { Clock, CheckCircle2, XCircle, Loader2, RefreshCw, ChevronDown, ChevronUp, Rocket } from 'lucide-react'
 
 type DeployStatus = 'healthy' | 'building' | 'failed' | 'idle'
 
